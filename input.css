@@ -72,3 +72,11 @@ body{
   .open .hamburger-bottom {
     transform: rotate(-45deg) translateY(6px) translate(-6px);
   }
+
+
+
+  /* Easy Banking */
+
+  #easybank_font{
+    font-size: 18px;
+  }
